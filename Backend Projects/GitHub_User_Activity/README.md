@@ -1,5 +1,7 @@
 # GitHub User Activity CLI
 
+<img src="./GitHub_User_Activity_CLI.png">
+
 Lightweight Node.js CLI that fetches and prints a user's recent GitHub public events.
 
 Project page: https://roadmap.sh/projects/github-user-activity
