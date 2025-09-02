@@ -4,7 +4,7 @@ This repository contains personal projects I build while following the roadmaps 
 
 Projects List
 
-- [ ] [GitHub User Activity CLI](https://roadmap.sh/projects/github-user-activity)
+- [x] [GitHub User Activity CLI](https://roadmap.sh/projects/github-user-activity)
 - [ ] [Project 2](https://github.com/yourusername/project2)
 - [ ] [Project 3](https://github.com/yourusername/project3)
 
