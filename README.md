@@ -16,6 +16,4 @@ Click any of the images below to view the readme and live demo of the project.
     <h3>Single Page CV</h3>
   </a>
 </div>
-<a href="https://github.com/KarlangaXZ/GitHub_User_Activity">
-  <img src="./images/GitHub_User_Activity_CLI.png" width="100%">
-</a>
+
