@@ -12,7 +12,7 @@ Click any of the images below to view the readme and live demo of the project.
 
 <div align="center">
   <a href="https://github.com/KarlangaXZ/SinglePageCV">
-    <img src="./images/SinglePageCV.png" width="50%">
+    <img src="./images/Single-Page-CV.png" width="50%">
     <h3>Single Page CV</h3>
   </a>
 </div>
