@@ -1,21 +1,21 @@
-# Proyectos Roadmap.sh
+# Roadmap.sh Projects
 
-Este repositorio contiene los proyectos personales que voy realizando siguiendo los roadmaps de [roadmap.sh](https://roadmap.sh).
+This repository contains personal projects I build while following the roadmaps from [roadmap.sh](https://roadmap.sh).
 
-Estructura del repositorio
+Repository structure
 
-- `GitHub_User_Activity/` - Script y ejemplos relacionados con la actividad de GitHub.
-- `Single-Page-CV/` - CV en una sola página (HTML/CSS).
+- `GitHub_User_Activity/` — Scripts and examples related to GitHub activity.
+- `Single-Page-CV/` — A one-page CV (HTML/CSS).
 
-Cómo uso este repositorio
+How I use this repository
 
-- Cada carpeta contiene un pequeño proyecto o ejemplo que implemento mientras sigo un roadmap.
-- Guardaré README locales dentro de cada proyecto si hay instrucciones específicas.
+- Each folder contains a small project or example implemented while following a roadmap.
+- I will add local README files inside each project folder when there are specific instructions.
 
-Contribución
+Contributing
 
-Este repositorio es personal, pero si quieres sugerencias o pull requests, abre un issue o PR explicando el cambio.
+This is a personal repository. If you'd like to suggest improvements or submit a pull request, please open an issue or a PR describing the change.
 
-Licencia
+License
 
-Si no se especifica lo contrario, todos los archivos son de uso personal. Añade una licencia si quieres compartir el código públicamente.
+Unless stated otherwise, the files are for personal use. Add a LICENSE file if you want to share the code under an open license.
