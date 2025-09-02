@@ -1,5 +1,7 @@
 # SinglePage CV
 
+<img src="./Single-Page-CV.png">
+
 Simple single-file resume built with plain HTML and inline CSS.
 
 Project URL:https://roadmap.sh/projects/single-page-cv
