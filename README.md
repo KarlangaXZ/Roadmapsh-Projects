@@ -2,10 +2,11 @@
 
 This repository contains personal projects I build while following the roadmaps from [roadmap.sh](https://roadmap.sh).
 
-Repository structure
+Projects List
 
-- `GitHub_User_Activity/` — Scripts and examples related to GitHub activity.
-- `Single-Page-CV/` — A one-page CV (HTML/CSS).
+- [ ] [GitHub User Activity CLI](https://roadmap.sh/projects/github-user-activity)
+- [ ] [Project 2](https://github.com/yourusername/project2)
+- [ ] [Project 3](https://github.com/yourusername/project3)
 
 How I use this repository
 
