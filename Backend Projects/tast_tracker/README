@@ -4,6 +4,9 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)  
 ![Status](https://img.shields.io/badge/Status-Active-success) 
 
+link to the project: <a href="https://roadmap.sh/projects/task-tracker">Radmap.sh Project</a>  
+  
+
 A simple **Command Line Interface (CLI)** application to manage your daily tasks.  
 With this tool, you can **add, update, delete, and track tasks** using only your terminal.  
 All tasks are stored locally in a JSON file, so no external database is required.  
