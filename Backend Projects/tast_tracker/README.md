@@ -1,11 +1,10 @@
 # Task Tracker CLI
 
+link to the project: https://roadmap.sh/projects/task-tracker
+
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js)  
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)  
 ![Status](https://img.shields.io/badge/Status-Active-success) 
-
-link to the project: https://roadmap.sh/projects/task-tracker
-  
 
 A simple **Command Line Interface (CLI)** application to manage your daily tasks.  
 With this tool, you can **add, update, delete, and track tasks** using only your terminal.  
