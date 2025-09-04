@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "description": "Buy groceries",
-    "status": "todo",
-    "createdAt": "2025-09-04T10:05:03.315Z",
-    "updatedAt": "2025-09-04T10:05:03.317Z"
+    "description": "Comprar el PS5",
+    "status": "in-progress",
+    "createdAt": "2025-09-04T10:07:13.281Z",
+    "updatedAt": "2025-09-04T10:11:39.520Z"
   }
 ]

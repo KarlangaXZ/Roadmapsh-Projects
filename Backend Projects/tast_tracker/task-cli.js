@@ -10,7 +10,15 @@ function readTasks() {
   if (!fs.existsSync(filePath)) {
     fs.writeFileSync(filePath, JSON.stringify([]));
   }
-  return JSON.parse(fs.readFileSync(filePath, "utf8"));
+
+  try {
+    const data = fs.readFileSync(filePath, "utf8");
+    return data ? JSON.parse(data) : [];
+  } catch (error) {
+    // Si el archivo está corrupto, lo reseteamos
+    fs.writeFileSync(filePath, JSON.stringify([]));
+    return [];
+  }
 }
 
 // Función para guardar tareas
