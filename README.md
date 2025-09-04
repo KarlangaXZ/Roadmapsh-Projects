@@ -6,6 +6,7 @@ This repository contains personal projects I build while following the roadmaps 
 
 - [x] [GitHub User Activity CLI](https://roadmap.sh/projects/github-user-activity)
 - [x] [SinglePage CV](https://roadmap.sh/projects/single-page-cv)
+- [x] [Task Tracker CLI]([https://github.com](https://github.com/KarlangaXZ/Roadmapsh-Projects/tree/main/Backend%20Projects/tast_tracker))
 - [ ] [Loading](https://github.com)
 
 Click any of the images below to view the readme and live demo of the project.
